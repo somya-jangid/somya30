@@ -1,0 +1,1 @@
+import React from 'react';function SignUpPage() { return (<div className="sign-up-page"><form><input type="email" placeholder="Email" required /><input type="password" placeholder="Password" required /><button className="btn-primary">Start Membership</button></form></div>);}export default SignUpPage;
