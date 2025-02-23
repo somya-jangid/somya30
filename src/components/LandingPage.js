@@ -1,0 +1,1 @@
+import React from 'react';function LandingPage() { return (<div className="landing-page"><header className="hero"><h1>Unlimited movies, TV shows, and more.</h1><p>Watch anywhere. Cancel anytime.</p><button className="btn-primary">Get Started</button></header></div>);}export default LandingPage;
