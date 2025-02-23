@@ -1,0 +1,1 @@
+import React from 'react';function BrowsePage() { return (<div className="browse-page"><h1>Welcome to Netflix</h1></div>);}export default BrowsePage;
